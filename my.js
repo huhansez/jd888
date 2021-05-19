@@ -1,3 +1,6 @@
-5 * * * * https://raw.githubusercontent.com/huhansez/jd888/main/my.js
-rm -f /jd/jshare.sh
-cp -f /jd/config/jshare.sh /jd/
+[
+ 
+ {"shareCode":"8EDA356E0195A6D418AA1D848145F059","groupCode":"843641190077972480"},
+
+
+]
